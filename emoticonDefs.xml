@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <emoticons>
+  <emoticon defaultKey="(rip)" image="rip.png" text="RIP" order="22">
+    <alt>(RIP)</alt> 
+	<alt>(Rip)</alt> 
+	<alt>(riperino)</alt> 
+  </emoticon>
+  <emoticon defaultKey="(penguins)" image="penguins.png" text="penguins" order="23">
+	<alt>(Penguins)</alt> 
+	<alt>(pengs)</alt>
+  </emoticon>
+  <emoticon defaultKey="(koala)" image="koala.png" text="koala" order="24">
+	<alt>(Koala)</alt> 
+  </emoticon>
+  <emoticon defaultKey="(shalmali)" image="shalmali.png" text="Shalmali" order="25">
+	<alt>(Shalmali)</alt> 
+  </emoticon>
+  <emoticon defaultKey="(fire)" image="fire.png" text="fire" order="26">
+	<alt>(Fire)</alt>
+  </emoticon>
+  <emoticon defaultKey="(poo)" image="poop.png" text="poo" order="27">
+	<alt>(poop)</alt>
+	<alt>(Poo)</alt>
+	<alt>(Poop)</alt>
+  </emoticon>
+  <emoticon defaultKey="(ghost)" image="ghost.png" text="ghost" order="28">
+	<alt>(spooky)</alt>
+	<alt>(Ghost)</alt>
+	<alt>(Spooky)</alt>
+  </emoticon>
+  <emoticon defaultKey="(pusheen)" image="pusheen.png" text="pusheen" order="29">
+	<alt>(meow)</alt>
+	<alt>(Pusheen)</alt>
+  </emoticon>
+</emoticons>
