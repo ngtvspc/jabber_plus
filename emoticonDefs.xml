@@ -44,4 +44,7 @@
   <emoticon defaultKey="(mindblown)" image="mindblown.gif" text="mind blown" order="33">
 	<alt>(Mindblown)</alt>
   </emoticon>
+  <emoticon defaultKey="(omg)" image="omg.gif" text="omg" order="34">
+	<alt>(OMG)</alt>
+  </emoticon>
 </emoticons>
