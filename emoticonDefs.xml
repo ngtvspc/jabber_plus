@@ -38,4 +38,10 @@
   <emoticon defaultKey="(lunch)" image="bento.png" text="lunch" order="31">
 	<alt>(bento)</alt>
   </emoticon>
+  <emoticon defaultKey=":|" image="neutral.png" text="Neutral" order="32">
+	<alt>(neutral)</alt>
+  </emoticon>
+  <emoticon defaultKey="(mindblown)" image="mindblown.gif" text="mind blown" order="33">
+	<alt>(Mindblown)</alt>
+  </emoticon>
 </emoticons>
