@@ -35,4 +35,7 @@
   <emoticon defaultKey="(hehe)" image="hehe.gif" text="hehe" order="30">
 	<alt>(Hehe)</alt>
   </emoticon>
+  <emoticon defaultKey="(omg)" image="omg.gif" text="omg" order="31">
+	<alt>(OMG)</alt>
+  </emoticon>
 </emoticons>
