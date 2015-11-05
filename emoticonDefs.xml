@@ -38,4 +38,8 @@
   <emoticon defaultKey="(lunch)" image="bento.png" text="lunch" order="31">
 	<alt>(bento)</alt>
   </emoticon>
+  <emoticon defaultKey="(gogogo)" image="rockets.gif" text="gogogo" order="32">
+	<alt>(onwards)</alt>
+	<alt>(whoosh)</alt>
+  </emoticon>
 </emoticons>
