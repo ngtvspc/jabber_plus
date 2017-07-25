@@ -1,6 +1,6 @@
 # Jabber+ #
 
-A rip-off of Google+ only in name. This repository stores custom emoticons for the Cisco Jabber chat client.
+A rip-off of Google+ only in name. This repository stores some custom emoticons for the Cisco Jabber chat client. Anyone should feel free to contribute! Makes Jabber a little more fun. :beers:
 
 ## Installing ##
 
@@ -14,7 +14,9 @@ The emoticons should now appear in the emoticon menu inside chat windows.
 
 ## Contributing ##
 
-* Fork this repository.
+* Fork this repository. (optional)
+
+* Clone/Download this repo.
 
 * Add the desired emoticon as a PNG and edit the emoticonDefs.xml file appropriately.
 
